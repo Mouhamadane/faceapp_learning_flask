@@ -5,4 +5,3 @@ faceapp/static/*.jpg
 app.db
 geckodriver.log
 .cache/
-faceapp/
