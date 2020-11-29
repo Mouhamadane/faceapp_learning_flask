@@ -1,0 +1,8 @@
+env/
+*.pyc
+__pycache__
+faceapp/static/*.jpg
+app.db
+geckodriver.log
+.cache/
+faceapp/
